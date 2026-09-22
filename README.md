@@ -107,8 +107,8 @@ Listwright. Everything here was produced by a script that anyone can re-run
 against the same public endpoints.
 
 If you want a measurement made rather than a script to run with, that is what I
-sell: [listwright.surge.sh](https://listwright.surge.sh/). Contact:
-emelinedb26+charon@gmail.com
+sell: [emelinedb26-wq.github.io/listwright](https://emelinedb26-wq.github.io/listwright/).
+Contact: emelinedb26+charon@gmail.com
 
 ## Licence
 
